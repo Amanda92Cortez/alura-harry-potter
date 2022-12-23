@@ -1,0 +1,88 @@
+.principal {
+	padding: 3em 0;
+	width: 940px;
+	margin: 0 auto;
+}
+
+.principal p {
+	margin: 0 0 1em;
+}
+
+.principal strong {
+	font-weight: bold;
+}
+
+.casas {
+	width: 120px;
+	float: left;
+	margin: 0 20px 20px 0;
+}
+
+
+/* Grifinória */
+.svg-grif:nth-child(1) a:before{
+  background: url("../img/grifinoria.svg") no-repeat;
+}
+
+.svg-grif:nth-child(2) a:before{
+  background: url("../img/grifinoria.svg") no-repeat;
+}
+
+.svg-grif:nth-child(3) a:before{
+  background: url("../img/grifinoria.svg") no-repeat;
+}
+
+.svg-grif:nth-child(4) a:before{
+  background: url("../img/grifinoria.svg") no-repeat;
+}
+
+.svg-grif:nth-child(5) a:before{
+  background: url("../img/grifinoria.svg") no-repeat;
+}
+
+.svg-grif:nth-child(6) a:before{
+  background: url("../img/grifinoria.svg") no-repeat;
+}
+
+/* Sonserina */
+.svg-sons:nth-child(1) a:before{
+  background: url("../img/sonserina.svg") no-repeat;
+}
+
+.svg-sons:nth-child(2) a:before{
+  background: url("../img/sonserina.svg") no-repeat;
+}
+
+.svg-sons:nth-child(3) a:before{
+  background: url("../img/sonserina.svg") no-repeat;
+}
+
+.svg-sons:nth-child(4) a:before{
+  background: url("../img/sonserina.svg") no-repeat;
+}
+
+/* Corvinal*/
+.svg-corv:nth-child(1) a:before{
+  background: url("../img/corvinal.svg") no-repeat;
+}
+
+.svg-corv:nth-child(2) a:before{
+  background: url("../img/corvinal.svg") no-repeat;
+}
+
+.svg-corv:nth-child(3) a:before{
+  background: url("../img/corvinal.svg") no-repeat;
+}
+
+/*Lufa Lufa*/
+.svg-lufa:nth-child(1) a:before{
+  background: url("../img/lufa.svg") no-repeat;
+}
+
+.svg-lufa:nth-child(2) a:before{
+  background: url("../img/lufa.svg") no-repeat;
+}
+
+.svg-lufa:nth-child(3) a:before{
+  background: url("../img/lufa.svg") no-repeat;
+}
