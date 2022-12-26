@@ -86,3 +86,11 @@
 .svg-lufa:nth-child(3) a:before{
   background: url("../img/lufa.svg") no-repeat;
 }
+
+@media(max-width: 768px){
+  .principal{
+	  width: 80%;
+	  margin: 0 auto;
+  }
+  
+}
