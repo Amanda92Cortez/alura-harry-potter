@@ -2,12 +2,11 @@
    <img src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADA&color=RED&style=for-the-badge" #vitrinedev/>
 </p>
 
-<h1>Harry Potter Alura</h1>
+<h1>Alura Harry Potter</h1>
 
-# :pushpin: Sobre do projeto
-- `Formação` Formação Front-End
-- `Formação` Formação HTML e CSS
-- `Formação` Formação CSS: Estilos
+![Formação Front-End](https://github.com/Amanda92Cortez/alura-harry-potter/assets/19363871/a16a9b7b-1c42-4a6f-a437-5bff75e75e39)
+![Formação HTML e CSS](https://github.com/Amanda92Cortez/alura-harry-potter/assets/19363871/614a0084-d794-4400-bdce-630155d9a7e4)
+![Formação CSS Estilos](https://github.com/Amanda92Cortez/alura-harry-potter/assets/19363871/7bbec8e7-f6d6-415a-88c9-d1b4beaec214)
 
 # :hammer: Funcionalidades do projeto
 - `Funcionalidade` Plataforma Harry Potter
