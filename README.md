@@ -4,11 +4,14 @@
 
 <h1>Alura Harry Potter</h1>
 
-# :pushpin: Sobre do projeto
+# :pushpin: Formações
 - `Formação ` Front End
 - `Formação ` HTML e CSS
 - `Formação ` CSS: Estilos
 
+# :pushpin: Cursos
+- `Curso ` Flexbox posicione elementos na tela
+  
 # :hammer: Funcionalidades do projeto
 - `Funcionalidade` Plataforma Harry Potter
 
