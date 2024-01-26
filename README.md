@@ -10,7 +10,7 @@
 - `Formação ` CSS: Estilos
 
 # :pushpin: Cursos
-- `Curso ` Flexbox posicione elementos na tela
+- `Curso ` Layouts Responsivos trabalhando com layouts mobile
   
 # :hammer: Funcionalidades do projeto
 - `Funcionalidade ` Plataforma Harry Potter
