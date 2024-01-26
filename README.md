@@ -2,7 +2,7 @@
    <img src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADA&color=RED&style=for-the-badge" #vitrinedev/>
 </p>
 
-<h1>Alura Harry Potter</h1>
+<h1>Harry Potter - Alura</h1>
 
 # :pushpin: Formações
 - `Formação ` Front End
