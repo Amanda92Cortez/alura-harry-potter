@@ -27,7 +27,7 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 🛠️ Abrir e rodar o projeto
-- `Baixar projeto ` git clone https://github.com/Amanda92Cortez/Harry_Potter.git
+- `Baixar projeto ` git clone https://github.com/Amanda92Cortez/alura-harry-potter.git
 
 ## 📚Telas/Vídeos
 ![image](https://github.com/Amanda92Cortez/Harry_Potter/assets/19363871/7fbe309e-1f3e-4654-bda6-6655f4260e96)
