@@ -29,8 +29,8 @@ Você pode [acessar o código fonte do projeto inicial](https://github.com/Amand
 ## 🛠️ Abrir e rodar o projeto
 Baixar projeto:
 - ` Baixar projeto ` git clone https://github.com/Amanda92Cortez/alura-harry-potter.git
-Após baixar o projeto, você pode abrir com o **VSCode**.
-No VSCode clicar na parte inferior e clicar "Go Live" (Live Server)
+- Após baixar o projeto, você pode abrir com o **VSCode**.
+  - No VSCode clicar na parte inferior e clicar "Go Live" (Live Server)
 
 
 ## 🔎 Observações
